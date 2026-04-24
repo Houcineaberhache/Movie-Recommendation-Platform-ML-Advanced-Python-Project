@@ -51,6 +51,7 @@ http://localhost:8080/docs
 ```
 
 ## Live API
+https://abdessamadf-movie-recommender.hf.space/
 https://your-cloud-run-link-here/docs
 
 ## Dataset
